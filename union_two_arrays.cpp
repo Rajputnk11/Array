@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 using namespace std;
 void Union_two_arrays(int arr1[],int arr2[],int m,int n){
   int i=0;
